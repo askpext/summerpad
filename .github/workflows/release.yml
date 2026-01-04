@@ -26,7 +26,7 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       # Linux requires extra libraries
-     - name: install dependencies (ubuntu only)
+      - name: install dependencies (ubuntu only)
         if: matrix.platform == 'ubuntu-22.04'
         run: |
           sudo apt-get update
