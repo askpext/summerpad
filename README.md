@@ -1,5 +1,3 @@
-# SummerPad 🌊
-
 <div align="center">
   <img width="120" height="120" alt="Group 3" src="https://github.com/user-attachments/assets/12d8d924-50de-400d-a851-6aea8bbdd552" />
   
@@ -10,7 +8,7 @@
 
 ![0104](https://github.com/user-attachments/assets/24d6425d-698a-4902-aaa0-c67273bd43c9)
 
-
+# SummerPad 🌊
 > **"Word processors are too loud. SummerPad is quiet."**
 
 
