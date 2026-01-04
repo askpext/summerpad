@@ -6,9 +6,10 @@
   
 </div>
 
-![0104](https://github.com/user-attachments/assets/24d6425d-698a-4902-aaa0-c67273bd43c9)
+
 
 # SummerPad 🌊
+![0104](https://github.com/user-attachments/assets/24d6425d-698a-4902-aaa0-c67273bd43c9)
 > **"Word processors are too loud. SummerPad is quiet."**
 
 
