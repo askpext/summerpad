@@ -1,9 +1,20 @@
 # SummerPad 🌊
 
+<div align="center">
+  <img width="120" height="120" alt="Group 3" src="https://github.com/user-attachments/assets/12d8d924-50de-400d-a851-6aea8bbdd552" />
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+  
+  [Download](#download) • [Features](#features) • [Getting Started](#getting-started) • [Contributing](#contributing)
+  
+</div>
+
+![0104](https://github.com/user-attachments/assets/24d6425d-698a-4902-aaa0-c67273bd43c9)
+
+
 > **"Word processors are too loud. SummerPad is quiet."**
 
-![SummerPad Cyberpunk Vibe](https://github.com/askpext/summerpad/raw/main/screenshots/cyberpunk.png)
-*(Replace this link with your actual screenshot path later)*
 
 SummerPad is not just a notepad; it is a **Mood Engine**. It forces you to choose a "vibe" before you write, locking you into a specific font, color palette, and emotional state. 
 
