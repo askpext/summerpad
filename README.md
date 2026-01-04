@@ -6,8 +6,6 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
   
-  [Download](#download) • [Features](#features) • [Getting Started](#getting-started) • [Contributing](#contributing)
-  
 </div>
 
 ![0104](https://github.com/user-attachments/assets/24d6425d-698a-4902-aaa0-c67273bd43c9)
